@@ -1,0 +1,10 @@
+﻿{
+  "Logger": {
+    "LineSeparator": 10,
+    "TimeFormat": "hh:mm:ss",
+    "DirectoryPath": "C:\\Users\\romav\\RiderProjects\\Modul2HW5\\Modul2HW5\\Logs",
+    "BackUpDirectoryPath": "C:\\Users\\romav\\RiderProjects\\Modul2HW5\\BackUp",
+    "FileName" : "log_{0}",
+    "FileExtension" : ".txt" 
+  }
+}
